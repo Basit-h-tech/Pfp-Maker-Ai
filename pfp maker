@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CreatorVerse AI - PFP Studio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <div class="logo-icon">✨</div>
+                <div class="logo-text">
+                    <span class="brand-name">CreatorVerse</span>
+                    <span class="brand-sub">PFP Studio</span>
+                </div>
+            </div>
+            <div class="nav-buttons">
+                <a href="#home" class="nav-link">Home</a>
+                <a href="#studio" class="btn-primary">Open Studio</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-bg"></div>
+        <div class="container">
+            <div class="hero-badge">
+                <span>✨</span> AI-Powered Profile Picture Maker
+            </div>
+            <h1 class="hero-title">
+                Create Your<br>
+                <span class="gradient-text">Perfect PFP</span>
+            </h1>
+            <p class="hero-desc">
+                Upload your photo and instantly preview 200+ professional styles.
+                From vintage to cyberpunk, Taylor Swift to anime — download in HD, completely free.
+            </p>
+            <div class="hero-buttons">
+                <a href="#studio" class="btn-hero-primary">
+                    <span>✨</span> Start Creating — Free
+                </a>
+                <a href="#features" class="btn-hero-secondary">
+                    See How It Works →
+                </a>
+            </div>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <div class="stat-value">200+</div>
+                    <div class="stat-label">Unique Styles</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">42</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">1024px</div>
+                    <div class="stat-label">HD Export</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">Free</div>
+                    <div class="stat-label">No Sign Up</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <div class="section-header">
+                <h2>Why Creators Love It</h2>
+                <p>Everything you need, nothing you don't</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📤</div>
+                    <h3>Upload Any Photo</h3>
+                    <p>
